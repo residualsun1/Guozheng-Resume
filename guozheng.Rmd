@@ -1,0 +1,232 @@
+---
+title: "黄国政的简历"
+author: 黄国政
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+<style>
+  .blocks {
+    break-inside: auto;
+  }
+</style>
+
+Aside
+================================================================================
+
+![黄国政](https://cdn.jsdelivr.net/gh/residualsun1/resume/avatar.jpg){width=80%}
+
+
+联系信息 {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> Sonder53231323@163.com
+- <i class="fa fa-github"></i> [github.com/residualsun1](https://github.com/residualsun1)
+- <i class="fa fa-phone"></i> +86 19880838040
+<!--- 详情欢迎邮箱联系.-->
+
+
+技能及工具{#skills}
+--------------------------------------------------------------------------------
+
+1.具备四个月的田野调查经验，已能熟练进行田野观察与记录，并能使用网络工具制作社会关系网络图。
+
+2.掌握基本编程能力，可熟练使用R包blogdown搭建简易网站，以及使用bookdown包制作电子书籍，目前多以此配合田野调查记录。
+
+3.熟悉统计应用软件R、Rstudio、Stata、Amos，版本协作管理Git，社会科学调查软件Kumu。
+
+<!--
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+-->
+
+
+Main
+================================================================================
+
+黄国政 {#title}
+--------------------------------------------------------------------------------
+
+<!--### 深造意愿：往人类学学科方向研读深造-->
+### 求职意愿：社区工作者
+<!--
+本科三年级期间，我有幸前往湛江市硇洲岛西埠村进行了为期四个月的田野调查，虽然彼时还没有明确的研究问题，也没有形成具体的研究方向，但在田野漫步的一百二十多天，
+-->
+教育经历 {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### 广州大学
+
+社会学    学士
+
+广州， 广东
+
+2021 - 2025
+
+- GPA：3.91
+- 主修课程：社会人类学（94）、田野调查（91）、质性研究方法（98）、数据科学与社会研究（98）、统计软件应用（93）
+<!--
+### University of Chinese Academy of Sciences
+
+M.S. in Bioinformatics
+
+Beijing, China
+
+2014
+
+Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+-->
+
+专业经历 {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### 岛屿社会田野调查
+
+湛江经济开发区硇洲岛西埠村黑石屿文化有限公司实习生
+
+湛江， 广东
+
+2023.12.11 - 2024.04.21
+
+- 在西埠村开展为期四个月的田野调查，致力于村庄“流动的神明”的仪式追踪与记录，同时参与社区中华鲎、中华白海豚等物种调查及保护，参与民宿返乡青年团队“可持续渔村探索”项目阶段性成果《西埠村人文化生计手册》的撰写工作，并形成52篇田野随笔，发布在个人中文博客网站：[https://guozheng.rbind.io/tags/田野随笔/](https://guozheng.rbind.io/tags/田野随笔/)。
+- 参与黑石屿团队社区活动策划，先后组织与执行了西埠村神明故事会、村庄理发敬老日活动与西埠村海洋文化座谈会。活动产出回顾：黑石屿公众号文章[《和渔民一起逛大学，从海洋到博物馆》](https://mp.weixin.qq.com/s/pyqwavIoSTsi8u-k78e6bg)和[《海岛文化座谈：和岛民渔民一起聊聊神明》](https://mp.weixin.qq.com/s/4N3FGGITosLDWC_w9nt6Dw)。
+
+### 2023年第三届全国大学生人类学研训营暨之江青年学者人类学理论与方法研训营
+
+人类学理论与方法研训营营员
+
+杭州， 浙江
+
+2023.07.02 - 2023.07.09
+
+基于在硇洲岛代表小组进行结营学习分享：《解开与缠绕-基于硇洲岛鲎保育日活动的一次人类学反思》。分享内容可见[https://cdn.jsdelivr.net/gh/residualsun1/Guozheng-Resume/static/share.ppt/](https://cdn.jsdelivr.net/gh/residualsun1/Guozheng-Resume/static/share.pptx/)
+
+### “万企兴万村”口述故事撰写
+
+广州大学乡村振兴研究院口述故事撰写员
+
+广州， 广东
+
+2022.07.03 - 2023.06.14
+
+- 走访碧桂园佛山顺德总部，线上访谈碧桂园“万企兴万村”项目受帮扶对象，并根据访谈文本撰写口述故事《我们与“心愿100”：苦尽必是甘来处》。故事评审获特等奖，结果可见[https://mp.weixin.qq.com/s/1TZoR1O_AT3bvzRjHJsB_Q](https://mp.weixin.qq.com/s/1TZoR1O_AT3bvzRjHJsB_Q)。
+
+活动经历及其他 {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### 2024年中国关键生态系统区域社区保护地研讨会
+
+硇洲岛西埠村渔业社区在地实践经验分享人
+
+南宁， 广西
+
+2024.04.28 - 2024.04.30
+
+分享主题：《社区保护如何激发社区能动性》
+
+激发能动性需要明确社区居民的生计和保护间的利益相关点和冲突点。激发能动性的前提是学会像“土著”一样思考，感受当地人眼中珍贵的事物；其次可以协助建立兴趣团队，增进关系，也可以因地制宜发展产业，为当地生计增加切实可行的方式。利益之外，还需要凝聚社区成员，借助力量达成进一步的共识。
+
+### 洋命运共同体与海洋发展国家级高级研修班
+
+研修班学习员
+
+厦门， 福建
+
+2023.09.25 - 2023.09.28
+
+开源项目 {data-icon=file-code}
+--------------------------------------------------------------------------------
+
+### 个人中文网站 [https://guozheng.rbind.io/](https://guozheng.rbind.io/)
+
+记录我的成长历程、田野经历以及编程技术学习。我相信自学的力量，也信奉终身学习，从社会学到数据科学，再到互联网编程技术，直至如今走进村庄进行人类学的田野调查，让我得到了难以想象的成长，这个简单的小站是一个见证的载体。
+
+广州， 广东
+
+2023 - 
+
+### 个人英文网站 [https://residualsun.blog/](https://residualsun.blog/)
+
+英文思维与写作训练项目。
+
+广州， 广东
+
+2023 - 
+
+### Amos学习笔记 [https://residualsun1.github.io/Amos_sample/](https://residualsun1.github.io/Amos_sample/)
+
+结构方程模型软件学习笔记。
+
+广州， 广东
+
+2022 - 
+
+### R语言学习笔记 [https://residualsun1.github.io/deploy/](https://residualsun1.github.io/deploy/)
+
+我的R语言学习笔记，基于2020级班级作业项目为基础进行修改和完善。
+
+2022 - 
+
+荣誉奖项 {data-icon=certificate}
+--------------------------------------------------------------------------------
+
+### 广州大学
+
+公共管理学院
+
+广州， 广东
+
+2021 - 2023
+
+- 2021年国际人才英语初级考试（良）
+- 2021年全国计算机一级考试
+- 2021全国大学英语四级（573）
+- 2022全国大学英语六级（508）
+- 2022年全国普通话水平测试二乙
+- 2022年“万企兴万村口述故事”作品特等奖
+- 2021-2022学年本科生三等奖学金
+- 2022-2023学年本科生三等奖学金
+
+### 浙江大学
+
+浙江大学人类学研究所
+
+杭州， 浙江
+
+2023
+
+- 2023年第三届全国大学生人类学研训营暨之江青年学者人类学理论与方法研训营优秀营员
+
+<!--
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+
+Poster for 2013 International Conference of Genomics
+
+Qingdao, China
+
+2014
+
+**Yu L**, Chen B, Zhang Z.
+
+### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+
+J Cell Sci. 2016 May 15;129(10):2075-84.
+
+N/A
+
+2016 
+
+Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+-->
