@@ -10,11 +10,7 @@ output:
 #knit: pagedown::chrome_print
 ---
 
-<style>
-  .blocks {
-    break-inside: auto;
-  }
-</style>
+
 
 Aside
 ================================================================================
@@ -36,7 +32,7 @@ Aside
 
 1.具备四个月的田野调查经验，已能熟练进行田野观察与记录，并能使用网络工具制作社会关系网络图。
 
-2.掌握基本编程能力，可熟练使用R包blogdown搭建简易网站，以及使用bookdown包制作电子书籍，目前多以此配合田野调查记录。
+2.掌握基本编程能力，可熟练使用R包[blogdown](https://pkgs.rstudio.com/blogdown/)搭建简易网站，以及使用[bookdown](https://pkgs.rstudio.com/bookdown/)包制作电子书籍，目前多以此配合田野调查，感兴趣于探索如何将定量研究工具或网络技术与社区调查研究相结合。
 
 3.熟悉统计应用软件R、Rstudio、Stata、Amos，版本协作管理Git，社会科学调查软件Kumu。
 
@@ -57,7 +53,7 @@ Main
 --------------------------------------------------------------------------------
 
 <!--### 深造意愿：往人类学学科方向研读深造-->
-### 求职意愿：社区工作者
+### 求职意愿：智渔渔业绿色发展项目助理
 <!--
 本科三年级期间，我有幸前往湛江市硇洲岛西埠村进行了为期四个月的田野调查，虽然彼时还没有明确的研究问题，也没有形成具体的研究方向，但在田野漫步的一百二十多天，
 -->
@@ -66,13 +62,13 @@ Main
 
 ### 广州大学
 
-社会学    学士
+法学学士，公共管理学院社会学专业
 
 广州， 广东
 
 2021 - 2025
 
-- GPA：3.91
+- GPA：3.91（4.00）
 - 主修课程：社会人类学（94）、田野调查（91）、质性研究方法（98）、数据科学与社会研究（98）、统计软件应用（93）
 <!--
 ### University of Chinese Academy of Sciences
@@ -97,8 +93,9 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 2023.12.11 - 2024.04.21
 
-- 在西埠村开展为期四个月的田野调查，致力于村庄“流动的神明”的仪式追踪与记录，同时参与社区中华鲎、中华白海豚等物种调查及保护，参与民宿返乡青年团队“可持续渔村探索”项目阶段性成果《西埠村人文化生计手册》的撰写工作，并形成52篇田野随笔，发布在个人中文博客网站：[https://guozheng.rbind.io/tags/田野随笔/](https://guozheng.rbind.io/tags/田野随笔/)。
-- 参与黑石屿团队社区活动策划，先后组织与执行了西埠村神明故事会、村庄理发敬老日活动与西埠村海洋文化座谈会。活动产出回顾：黑石屿公众号文章[《和渔民一起逛大学，从海洋到博物馆》](https://mp.weixin.qq.com/s/pyqwavIoSTsi8u-k78e6bg)和[《海岛文化座谈：和岛民渔民一起聊聊神明》](https://mp.weixin.qq.com/s/4N3FGGITosLDWC_w9nt6Dw)。
+- 在硇洲岛西埠村开展为期四个月的田野调查，致力于村庄“流动的神明”的仪式追踪与记录，参与民宿返乡青年团队“可持续渔村探索”项目阶段性成果《西埠村人文化生计手册》民俗文化部分的撰写工作，并形成52篇田野随笔，已发布在个人中文博客网站：[https://guozheng.rbind.io/tags/田野随笔/](https://guozheng.rbind.io/tags/田野随笔/)。
+- 参与黑石屿团队社区活动策划，拉近在地团队与社区居民关系，先后参与策划、组织与执行了西埠村神明故事会、村庄理发敬老日活动、西埠村海洋文化座谈会以及黑石屿儿童社参观海洋大学的活动。活动产出回顾成果如下：黑石屿公众号文章[《哇～原来渔村的神明吃肉也是要加盐的～》](https://mp.weixin.qq.com/s/kwcrF2aThDb4fVgPISu07A)、[《海岛文化座谈：和岛民渔民一起聊聊神明》](https://mp.weixin.qq.com/s/4N3FGGITosLDWC_w9nt6Dw)和[《和渔民一起逛大学，从海洋到博物馆》](https://mp.weixin.qq.com/s/pyqwavIoSTsi8u-k78e6bg)。
+- 在作为临海渔业社区的西埠村开展渔民渔业生计调查工作及海洋生物保护宣传活动。田野调查早期，我与当地渔民一同劳作解网，了解村庄渔民作业方式与生计状况，同时与团队伙伴开展“巡鲎行动”，带领社区儿童救助被渔网误捕的中华鲎。
 
 ### 2023年第三届全国大学生人类学研训营暨之江青年学者人类学理论与方法研训营
 
@@ -108,9 +105,9 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 2023.07.02 - 2023.07.09
 
-基于在硇洲岛代表小组进行结营学习分享：《解开与缠绕-基于硇洲岛鲎保育日活动的一次人类学反思》。分享内容可见[https://cdn.jsdelivr.net/gh/residualsun1/Guozheng-Resume/static/share.ppt/](https://cdn.jsdelivr.net/gh/residualsun1/Guozheng-Resume/static/share.pptx/)
+基于在硇洲岛开展的社区活动及思考代表小组进行结营学习分享：《解开与缠绕-基于硇洲岛鲎保育日活动的一次人类学反思》。分享内容可见[https://cdn.jsdelivr.net/gh/residualsun1/Guozheng-Resume/static/share.pptx/](https://cdn.jsdelivr.net/gh/residualsun1/Guozheng-Resume/static/share.pptx/)
 
-### “万企兴万村”口述故事撰写
+### “万企兴万村”口述故事采写
 
 广州大学乡村振兴研究院口述故事撰写员
 
@@ -118,7 +115,7 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 2022.07.03 - 2023.06.14
 
-- 走访碧桂园佛山顺德总部，线上访谈碧桂园“万企兴万村”项目受帮扶对象，并根据访谈文本撰写口述故事《我们与“心愿100”：苦尽必是甘来处》。故事评审获特等奖，结果可见[https://mp.weixin.qq.com/s/1TZoR1O_AT3bvzRjHJsB_Q](https://mp.weixin.qq.com/s/1TZoR1O_AT3bvzRjHJsB_Q)。
+- 走访碧桂园佛山顺德总部，线上访谈碧桂园“万企兴万村”项目受帮扶对象，并根据访谈文本撰写口述故事《我们与“心愿100”：苦尽必是甘来处》，故事评审获特等奖，且作为30份案例故事之一入选《从“输血”到“造血”：企业30年30人帮扶记忆》书籍出版计划。评审结果可见[https://mp.weixin.qq.com/s/1TZoR1O_AT3bvzRjHJsB_Q](https://mp.weixin.qq.com/s/1TZoR1O_AT3bvzRjHJsB_Q)。
 
 活动经历及其他 {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -139,45 +136,66 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 研修班学习员
 
-厦门， 福建
+福建， 厦门
 
 2023.09.25 - 2023.09.28
 
 开源项目 {data-icon=file-code}
 --------------------------------------------------------------------------------
 
-### 个人中文网站 [https://guozheng.rbind.io/](https://guozheng.rbind.io/)
+### 个人中文网站 
 
-记录我的成长历程、田野经历以及编程技术学习。我相信自学的力量，也信奉终身学习，从社会学到数据科学，再到互联网编程技术，直至如今走进村庄进行人类学的田野调查，让我得到了难以想象的成长，这个简单的小站是一个见证的载体。
-
-广州， 广东
-
-2023 - 
-
-### 个人英文网站 [https://residualsun.blog/](https://residualsun.blog/)
-
-英文思维与写作训练项目。
+**[https://guozheng.rbind.io/](https://guozheng.rbind.io/)**
 
 广州， 广东
 
 2023 - 
 
-### Amos学习笔记 [https://residualsun1.github.io/Amos_sample/](https://residualsun1.github.io/Amos_sample/)
+记录我的成长历程、田野经历以及编程技术学习过程。我相信自学的力量，也信奉终身学习。从社会学到数据科学，再到互联网编程技术，直至如今走进村庄进行“同吃同住”式的人类学田野调查，让我得到了难以想象的变化和成长，这个简单的个人网站是最好的见证载体。
 
-结构方程模型软件学习笔记。
+### 个人英文网站 
+
+**[https://residualsun.blog/](https://residualsun.blog/)**
+
+广州， 广东
+
+2023 - 
+
+我的个人英文思维与写作训练项目。
+
+### Amos学习笔记 
+
+**[https://residualsun1.github.io/Amos_sample/](https://residualsun1.github.io/Amos_sample/)**
 
 广州， 广东
 
 2022 - 
 
-### R语言学习笔记 [https://residualsun1.github.io/deploy/](https://residualsun1.github.io/deploy/)
 
-我的R语言学习笔记，基于2020级班级作业项目为基础进行修改和完善。
+我的结构方程模型软件学习笔记，以及第一份基于bookdown包制作的电子手册，记录了使用Amos软件进行基础且完整的结构方程模型数据分析过程。
+
+### R语言学习笔记 
+
+**[https://residualsun1.github.io/deploy/](https://residualsun1.github.io/deploy/)**
+
+广州， 广东
 
 2022 - 
+
+我的R语言学习笔记，基于广州大学社会学2020级本科生定量研究方法课程作业项目为基础进行修改和完善，记录了我对统计应用学习的理解。
 
 荣誉奖项 {data-icon=certificate}
 --------------------------------------------------------------------------------
+
+### 浙江大学
+
+浙江大学人类学研究所
+
+杭州， 浙江
+
+2023
+
+- 2023年第三届全国大学生人类学研训营暨之江青年学者人类学理论与方法研训营优秀营员
 
 ### 广州大学
 
@@ -189,22 +207,13 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 - 2021年国际人才英语初级考试（良）
 - 2021年全国计算机一级考试
-- 2021全国大学英语四级（573）
-- 2022全国大学英语六级（508）
-- 2022年全国普通话水平测试二乙
+- 2022年全国大学英语四级（573）
+- 2023年全国大学英语六级（508）
+- 2022年普通话水平测试二乙
+- 2022年广州大学第十八届“挑战杯”大学生课外学术科技作品竞赛三等奖
 - 2022年“万企兴万村口述故事”作品特等奖
 - 2021-2022学年本科生三等奖学金
 - 2022-2023学年本科生三等奖学金
-
-### 浙江大学
-
-浙江大学人类学研究所
-
-杭州， 浙江
-
-2023
-
-- 2023年第三届全国大学生人类学研训营暨之江青年学者人类学理论与方法研训营优秀营员
 
 <!--
 Selected Publications and Posters {data-icon=file}
