@@ -32,9 +32,9 @@ Aside
 
 1.具备四个月的田野调查经验，已能熟练进行田野观察与记录，并能使用网络工具制作社会关系网络图。
 
-2.掌握基本编程能力，可熟练使用R包[blogdown](https://pkgs.rstudio.com/blogdown/)搭建简易网站，以及使用[bookdown](https://pkgs.rstudio.com/bookdown/)包制作电子书籍，目前多以此配合田野调查，感兴趣于探索如何将定量研究工具或网络技术与社区调查研究相结合。
+2.掌握基本编程能力，可熟练使用R包[blogdown](https://pkgs.rstudio.com/blogdown/)搭建简易网站，以及使用[bookdown](https://pkgs.rstudio.com/bookdown/)包制作电子书籍，目前多以此配合田野调查，感兴趣于探索如何将定量研究工具和网络可视化与社区调查相结合。
 
-3.熟悉统计应用软件R、Rstudio、Stata、Amos，版本协作管理Git，社会科学调查软件Kumu。
+3.熟悉统计应用软件R、Rstudio、Stata、Amos，版本协作管理软件Git，以及社会科学调查软件Kumu。
 
 <!--
 Disclaimer {#disclaimer}
@@ -132,7 +132,7 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 激发能动性需要明确社区居民的生计和保护间的利益相关点和冲突点。激发能动性的前提是学会像“土著”一样思考，感受当地人眼中珍贵的事物；其次可以协助建立兴趣团队，增进关系，也可以因地制宜发展产业，为当地生计增加切实可行的方式。利益之外，还需要凝聚社区成员，借助力量达成进一步的共识。
 
-### 洋命运共同体与海洋发展国家级高级研修班
+### 海洋命运共同体与海洋发展国家级高级研修班
 
 研修班学习员
 
