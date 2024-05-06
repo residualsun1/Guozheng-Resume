@@ -21,9 +21,9 @@ Aside
 联系信息 {#contact}
 --------------------------------------------------------------------------------
 
+- <i class="fa fa-phone"></i> +86 19880838040
 - <i class="fa fa-envelope"></i> Sonder53231323@163.com
 - <i class="fa fa-github"></i> [github.com/residualsun1](https://github.com/residualsun1)
-- <i class="fa fa-phone"></i> +86 19880838040
 <!--- 详情欢迎邮箱联系.-->
 
 
@@ -151,10 +151,10 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 2023 - 
 
-**中文网站：[https://guozheng.rbind.io/](https://guozheng.rbind.io/)
+**中文网站：[https://guozheng.rbind.io/](https://guozheng.rbind.io/)**
 记录我的成长历程、田野经历以及编程技术学习过程。我相信自学的力量，也信奉终身学习。从社会学到数据科学，再到互联网编程技术，直至如今走进村庄进行“同吃同住”式的人类学田野调查，我得到了难以想象的变化和成长，这个简单的个人网站是最好的见证载体。
 
-**英文网站：[https://residualsun.blog/](https://residualsun.blog/)
+**英文网站：[https://residualsun.blog/](https://residualsun.blog/)**
 我的个人英文思维与写作训练项目。
 
 ### 学习笔记 
