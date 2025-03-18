@@ -70,6 +70,7 @@ Main
 
 - GPA：3.91（4.00）
 - 主修课程：社会人类学（94）、田野调查（91）、质性研究方法（98）、数据科学与社会研究（98）、统计软件应用（93）
+- 初试成绩：政治（62）、英语一（79）、民族学概论（122）、民族政策与民族事务治理研究（124）
 <!--
 ### University of Chinese Academy of Sciences
 
@@ -82,7 +83,7 @@ Beijing, China
 Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
 -->
 
-实习经历 {data-icon=suitcase}
+田野经历 {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### 湛江经济开发区硇洲岛西埠村黑石屿文化有限公司
@@ -99,7 +100,7 @@ Thesis: A multi-omics study for intra-individual divergence of the distributions
 
 **3、寻访与海洋生物保护宣传**：在临海渔业社区——西埠村开展渔民渔业生计调查工作及海洋生物保护**宣传活动**。与当地渔民一同劳作，了解村庄渔民作业方式与生计状况，同时与团队伙伴开展“巡鲎行动”，带领社区儿童救助被渔网误捕的中华鲎。
 
-活动经历 {data-icon=laptop}
+其他经历 {data-icon=laptop}
 --------------------------------------------------------------------------------
 
 ### 2024年中国关键生态系统区域社区保护地研讨会
