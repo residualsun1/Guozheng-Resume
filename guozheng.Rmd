@@ -1,5 +1,5 @@
 ---
-title: "黄国政的简历"
+title: "黄国政"
 author: 黄国政
 date: "`r Sys.Date()`"
 output:
@@ -20,26 +20,17 @@ Aside
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-phone"></i> 19880838040
-- <i class="fa fa-envelope"></i> Sonder53231323@163.com
+- <i class="fa fa-envelope"></i> residualsun1@gmail.com
 - <i class="fa fa-github"></i> [github.com/residualsun1](https://github.com/residualsun1)
 <!--- 详情欢迎邮箱联系.-->
 
 
-技能及工具{#skills}
+技能及工具 {#skills}
 --------------------------------------------------------------------------------
 
-1.具备四个月的田野调查经验，已能熟练进行田野观察与记录。
+1. VideCoding 重度爱好者，热衷结合 Claude、Codex 与 Gemini 等 AI 工具进行开发
 
-2.搭建网页的基础能力，可较为熟练地使用 R 包 [Blogdown](https://pkgs.rstudio.com/blogdown/) 搭建网站，以及使用 [Bookdown](https://pkgs.rstudio.com/bookdown/) 包制作电子书籍，感兴趣于探索如何将定量研究工具与田野调查的相结合。
-
-<!--
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
--->
+2. 使用 Google 文档进行协作管理，NotebookLM 进行知识管理学习，Figma 进行产品设计
 
 Main
 ================================================================================
@@ -47,35 +38,54 @@ Main
 黄国政 {#title}
 --------------------------------------------------------------------------------
 
-<!--more--
-报考信息 {data-icon=graduation-cap data-concise=true}
+教育经历 {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### 中央民族大学
 
-报考专业：民族学
+民族学与社会学学院，民族学硕士
 
 北京
 
-2025
-
-- 初试总分：387
-- 各科成绩：政治（62） 英语一（79） 民族学概论（122） 民族政策与民族事务治理研究（124）
--->
-
-教育经历 {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+2025.09 - 2028.07
 
 ### 广州大学
 
-法学学士，公共管理学院社会学专业
+公共管理学院，社会学学士
 
-广州， 广东
+广州
 
-2021 - 2025
+2021.09 - 2025.07
 
 - GPA：3.92（4.00）
 - 主修课程：社会人类学（94）、田野调查（91）、质性研究方法（98）、数据科学与社会研究（98）、统计软件应用（93）
+
+项目经历 {data-icon=file-code}
+--------------------------------------------------------------------------------
+
+### SPARK AI 休闲黑客松（LLM 赛道）
+
+<br>「TimeGambler 时间赌徒」项目产品设计师<br>
+
+北京
+
+2026.01.26 - 2026.02.01
+
+与队友开发「[TimeGambler 时间赌徒](https://github.com/0x-IHRR/ADHD_BlockChain)」Dapp，并在由 LXDAO 与 SpoonOS、Kite AI、OGBC × ScalingX 协作主办的 PARK AI 休闲黑客松的中获得亚军（LLM 赛道）。
+
+本人在项目中结合 VibeCoding 参与了 AI Agent 接入的开发过程，主要负责提出产品 UI 界面优化建议与理念设计，并在评比中对产品进行路演宣讲。具体可见项目[文档演示](https://docs.google.com/presentation/d/1QCIWXFFyP1AbcWcQoHnqobuoJX5F8xQzZZQMCTW4ww4/edit?slide=id.p13#slide=id.p13)与[宣讲文稿](https://docs.google.com/document/d/1ITsJK4--ANd8AlsmNJzBPtb3qo5AcGYLiAPJo77uGy8/edit?tab=t.0)。
+
+### 数据分析
+
+<br>掌握基础数据分析技能，主要使用 R 语言与 Amos<br>
+
+广州
+
+2023 - 2024
+
+**R 语言**：基于广州大学社会学 2020 级本科生定量研究方法课程作业项目为基础进行修改和完善的数据分析笔记。<br>具体可见：[https://residualsun1.github.io/deploy/](https://residualsun1.github.io/deploy/)
+
+**Amos**：基于 Amos 软件进行基础且完整的结构方程模型数据分析过程。<br>具体可见：[https://residualsun1.github.io/Amos_sample/](https://residualsun1.github.io/Amos_sample/)
 
 实习经历 {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -84,7 +94,7 @@ Main
 
 西埠村
 
-湛江， 广东
+湛江
 
 2023.12.11 - 2024.04.21
 
@@ -94,14 +104,14 @@ Main
 
 **3、寻访与海洋生物保护宣传**：在西埠村开展渔民渔业生计调查工作及海洋生物保护**宣传活动**，与当地渔民一同劳作，了解村庄渔民作业方式与生计状况，同时与团队伙伴开展“巡鲎行动”，带领社区儿童救助被渔网误捕的鲎。
 
-项目经历 {data-icon=file}
+专业培训 {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### “万企兴万村”口述故事采写
 
 广州大学乡村振兴研究院口述故事撰写员
 
-广州， 广东
+广州
 
 2022.07.03 - 2023.06.14
 
@@ -111,7 +121,7 @@ Main
 
 硇洲岛西埠村渔业社区在地实践经验分享人
 
-南宁， 广西
+南宁
 
 2024.04.28 - 2024.04.30
 
@@ -123,7 +133,7 @@ Main
 
 研修班学习员
 
-福建， 厦门
+福建
 
 2023.07.02 - 2023.07.09
 
@@ -131,26 +141,11 @@ Main
 
 人类学理论与方法研训营营员
 
-杭州， 浙江
+杭州
 
 2023.09.25 - 2023.09.28
 
 基于在硇洲岛开展的社区活动及思考代表小组进行结营汇报，获优秀营员。
-
-开源项目 {data-icon=file-code}
---------------------------------------------------------------------------------
-
-### 数据分析
-
-掌握基础数据分析技能，主要使用 R 语言与 Amos
-
-广州， 广东
-
-2023 - 2024
-
-**R 语言**：基于广州大学社会学 2020 级本科生定量研究方法课程作业项目为基础进行修改和完善的数据分析笔记。<br>具体可见：[https://residualsun1.github.io/deploy/](https://residualsun1.github.io/deploy/)
-
-**Amos**：基于 Amos 软件进行基础且完整的结构方程模型数据分析过程。<br>具体可见：[https://residualsun1.github.io/Amos_sample/](https://residualsun1.github.io/Amos_sample/)
 
 荣誉奖项 {data-icon=certificate}
 --------------------------------------------------------------------------------
@@ -159,7 +154,7 @@ Main
 
 人类学研究所
 
-杭州， 浙江
+杭州
 
 2023
 
@@ -169,7 +164,7 @@ Main
 
 公共管理学院
 
-广州， 广东
+广州
 
 2021 - 2023
 
